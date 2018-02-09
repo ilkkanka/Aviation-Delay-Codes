@@ -1,0 +1,1 @@
+<?phpinclude("../sayfalar/header.php");echo "<META HTTP-EQUIV=\"Refresh\" CONTENT=\"1;URL=http://delay.ilkkan.net/delay\">";include("../sayfalar/footer.php");?>

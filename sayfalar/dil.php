@@ -1,0 +1,1 @@
+<?phpsession_start();$dil = strip_tags($_GET['dil']);if ($dil == "tr" || $dil == "en") {    $_SESSION["dil"] = $dil;    header('location: ' . $_SERVER['HTTP_REFERER']);} else {    echo "<META HTTP-EQUIV=\"Refresh\" CONTENT=\"1;URL=http://delay.ilkkan.net/delay\">";}?>

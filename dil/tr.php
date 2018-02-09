@@ -1,0 +1,1 @@
+<?php$dil = array(    "o" => "Diğerleri",);?>
